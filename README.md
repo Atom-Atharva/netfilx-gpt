@@ -2,6 +2,9 @@
 
 -   Create React App
 -   TailwindCSS Setup
+-   Header
+-   Login Form
+-   Sign Up Form (Use Formik For Very large forms)
 
 ## Features
 
