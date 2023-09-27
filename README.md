@@ -8,6 +8,10 @@
 -   Sign Up Form (Use Formik For Very large forms)
 -   Form Validation
 -   useRef Hook
+-   Google Firebase [Authentication, Hosting, Backend of our App].
+    -   Firebase Setup
+    -   Hosting our app to production: [https://netflixgpt-f63bd.web.app/]
+    -   Create SignUp User Account
 
 ## Features
 
