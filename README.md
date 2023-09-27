@@ -3,8 +3,11 @@
 -   Create React App
 -   TailwindCSS Setup
 -   Header
+-   Routing of App
 -   Login Form
 -   Sign Up Form (Use Formik For Very large forms)
+-   Form Validation
+-   useRef Hook
 
 ## Features
 
