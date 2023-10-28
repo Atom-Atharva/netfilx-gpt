@@ -12,6 +12,12 @@
     -   Firebase Setup
     -   Hosting our app to production: [https://netflixgpt-f63bd.web.app/]
     -   Create SignUp User Account
+    -   Implement SignIn User API.
+-   Store User into Redux Store
+    -   Created Our User Store with userSlice.
+-   Implemented SignOut
+-   Change Header: Photo
+-   Update Profile API Call
 
 ## Features
 
