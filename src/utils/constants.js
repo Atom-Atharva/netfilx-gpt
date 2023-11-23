@@ -3,10 +3,9 @@ export const LOGO = () => {
         <svg
             viewBox="0 0 111 30"
             data-uia="netflix-logo"
-            class="svg-icon svg-icon-netflix-logo"
+            className="svg-icon svg-icon-netflix-logo w-44"
             aria-hidden="true"
             focusable="false"
-            className="w-44"
         >
             <g id="netflix-logo">
                 <path
@@ -20,3 +19,12 @@ export const LOGO = () => {
 
 export const USER_AVATAR =
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABq0lEQVR4nI2Q/StDURjHryI/+AP4h6YRteQXlNaEEop5aRbzNlOULRqiYZtdibzMptGdjdtQ1+7dSttdzVuyMcSikO3RQfNa537rU6fnnO+ncw5B/BOjXJRlVZa0Ofsqp6ge6dB8U34OITQWRWE2PVDtfaL0SaAnIbkzAfvaOr9VWVIGBJGGFbj6K+dQCZW/c7euTVB9sjGsgNXLA9+LcYcOGEMjRJY1Sd+4nMcKuDH58fliL4QW2iG01AGnLg3AjRF8ZDOwow1hrMA9WHESWGsDuDX94MjdCZua8jOsgBoqjZ96uv8I0IzSlt5jBa5piTF2OJD4LUAz14zEgBXYdeLMY48i+FsQ9rQG0R4hJAcr0tqIX526RcTXm2BWZTWE0DSNbOWwNlks6K4DBFrXT+xmY4s9Fk48bA/RJHN1TTtUcM62vEM7OoE8uIqhPbXFK/q3rLb4imf3Li+3owDvXDzDNuf84OLlYxYFMO1Fot0kV/SjXDXOZOgdR/5UGYN+I8ypVFvpKYHKzBTY+MdXoQIb//Dabvbmfb2dZHO1a7xZZ+NNQkBnuz7/4g3A47RKHclXnAAAAABJRU5ErkJggg==";
+
+export const API_OPTIONS = {
+    method: "GET",
+    headers: {
+        accept: "application/json",
+        Authorization:
+            "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjODkzODNkMTMxNjExMmU2NjY0MzI3YTVmMDViMDRmNCIsInN1YiI6IjY1NWYzNDFjMWQzNTYzMDExYjljYWZkNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.awmEpJqNKP42-EfuAzr5x78oVh0q-zmQh9ltjet8_wM",
+    },
+};
