@@ -18,6 +18,10 @@
 -   Implemented SignOut
 -   Change Header: Photo
 -   Update Profile API Call
+-   BugFix: If user is not login can access browse page and vice versa.
+-   BugFix: Header Login/Logout button fixed.
+-   Hygiene Practice: Unsubscribed to the onAuthStateChange Callback.
+-   Hygiene Practice: Add Hardcoded values to constants.js
 
 ## Features
 
