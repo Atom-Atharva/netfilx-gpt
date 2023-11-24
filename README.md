@@ -30,8 +30,15 @@
 -   Planning For MainContainer and Secondary Container.
 -   Fetch Data for Trailer Video.
 -   Update Store with Trailer Video.
--   Embedded the Youtube Video and make it auto-play and mute.
+-   Embedded the Youtube Video and make it auto-play, mute and loop.
 -   Tailwind Classes for MainContainer.
+-   Build Secondary Component.
+-   Build Movie Card.
+-   Build Movie Lists.
+-   TMDB Image CDN URL.
+-   Beautify Browser Page with Tailwind CSS.
+-   Scroll Feature in Movies Lists.
+-   Custom Hooks For Popular, Trending, Upcoming Movies.
 
 ## Features
 
