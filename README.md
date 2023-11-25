@@ -37,8 +37,16 @@
 -   Build Movie Lists.
 -   TMDB Image CDN URL.
 -   Beautify Browser Page with Tailwind CSS.
--   Scroll Feature in Movies Lists.
+-   Custom Scroll Feature in Movies Lists (index.css).
 -   Custom Hooks For Popular, Trending, Upcoming Movies.
+-   GPT Search Feature.
+-   Toggling Button For GPT Feature.
+-   Created a slice for GPT Feature in Redux.
+-   Build GPT Search Bar
+-   Multi-Language Page.
+-   Header Drop-Down For Language Selector.
+-   ConfigSlice for lang in redux store.
+-   Integrate GPT APIs.
 
 ## Features
 
