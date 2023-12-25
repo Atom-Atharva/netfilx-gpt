@@ -43,10 +43,20 @@
 -   Toggling Button For GPT Feature.
 -   Created a slice for GPT Feature in Redux.
 -   Build GPT Search Bar
--   Multi-Language Page.
--   Header Drop-Down For Language Selector.
--   ConfigSlice for lang in redux store.
+-   (Bonus Feature) Multi-Language Page.
+-   (Bonus Feature) Header Drop-Down For Language Selector.
+-   (Bonus Feature) ConfigSlice for lang in redux store.
 -   Integrate GPT APIs.
+-   .env file for GPT Key.
+-   Install OpenAPI packages.
+-   Initialize open api in our system (Check Utils).
+-   Generated Queries on GPT Search Bar.
+-   PROB: Billing Cycle Needed for using GPT API. (Fixed by paying $5)
+-   Fetched Movie from GPT and Fetch corresponding data from TMDB.
+-   Resolved Promise Array obtained by TMDB API.
+-   Redux Slice for GPT MOVIES and Add Data in redux.
+-   Used MovieList Component to display movies suggested by GPT.
+-   Secured GPT KEY and TMDB KEY in .env file (Mandatory to put "REACT_APP_KEY_NAME" in .env file).
 
 ## Features
 
@@ -71,3 +81,11 @@
 -   GO TO API SECTION.
 -   Register APP.
 -   API read/access token and API key.
+
+## OPEN AI KEY
+
+-   Use platform.openai.com
+-   Generate API Key(Vulnerable)
+-   Hided it in .env file.
+-   PROBLEM: BILLING CYCLE NEEDED.
+-   FIXED: Payed $5 for API KEY.
