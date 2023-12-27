@@ -3,7 +3,7 @@ export const LOGO = () => {
         <svg
             viewBox="0 0 111 30"
             data-uia="netflix-logo"
-            className="svg-icon svg-icon-netflix-logo w-44"
+            className="svg-icon svg-icon-netflix-logo w-44 mx-auto md:mx-0"
             aria-hidden="true"
             focusable="false"
         >

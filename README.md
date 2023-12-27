@@ -57,6 +57,12 @@
 -   Redux Slice for GPT MOVIES and Add Data in redux.
 -   Used MovieList Component to display movies suggested by GPT.
 -   Secured GPT KEY and TMDB KEY in .env file (Mandatory to put "REACT_APP_KEY_NAME" in .env file).
+    -   Restart Server on .env file change to setup new environment
+-   Memomization Method For API Calls
+- Responsiveness of website
+    - md: greater than md devices
+    - sm: greater than sm devices
+    - if none by default to all types
 
 ## Features
 
